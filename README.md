@@ -36,13 +36,13 @@
 - [Machine Learning with Python]()
 
 
-- 📚 I’m currently learning ...
+<h2> 📚 I’m currently learning<h/2>
 
 
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Ryan Maldonaod | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Ryan Maldonado | Tableau" width="22px" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" />][Tableau]
+[<img align="left" alt="Ryan Maldonado | Tableau" width="60px" src="https://www.tableau.com/themes/custom/tableau_www/logo.v2.svg" />][Tableau]
 
 [Tableau]: https://public.tableau.com/app/profile/ryan.maldonado/vizzes
 [linkedin]: https://www.linkedin.com/in/ryan-maldonado-ms/
