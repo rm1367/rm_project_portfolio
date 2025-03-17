@@ -7,6 +7,7 @@
 - <b>Python</b>
   - [Blood Pressure Analysis Plot](https://github.com/rm1367/BloodPressurePlot)
   - [Time-Series Data Analysis: Stock Data](https://github.com/rm1367/Time-Series-Data-Analysis)
+  - [Data Analysis and Visualization](https://github.com/rm1367/Data-Analysis-and-Visualization)
 
 
 
@@ -15,8 +16,8 @@
 
 <h2> 📊 Tableau Projects </h2>
 
-- [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study/tree/main)
-- [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy/tree/main)
+- [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study)
+- [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy)
 
 <h2> 🏫 Certifications</h2>
 
