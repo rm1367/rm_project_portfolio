@@ -31,8 +31,11 @@
 - RPA Citizen Developer - UiPath
 
 
-<h2> 📚 I’m currently learning<h/2>
-  
+<h2> 📚 I’m currently learning</h2>
+
+  - AI Agents
+  - Machine Learning Models
+  - Generative AI
 
 <h2> 🤳 Connect with me:</h2>
 
