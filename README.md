@@ -1,4 +1,4 @@
-<h1>Hi, I'm Ryan!<br/><a href="https://github.com/rm1367">Data Analyst, </a>, <a href="https://www.linkedin.com/in/ryan-maldonado-ms/"> Operations Professional</a>, <a href="https://www.austinwestieacademy.com/"> Entrepreneur & Community Leader</a></h1>
+<h1>Hi, I'm Ryan!<br/><a href="https://github.com/rm1367">Data Analyst </a>, <a href="https://www.linkedin.com/in/ryan-maldonado-ms/"> Operations Professional</a>, <a href="https://www.austinwestieacademy.com/"> Entrepreneur & Community Leader</a></h1>
 
 📫 Email: Ryan.Maldonado1367@gmail.com
 
