@@ -25,10 +25,13 @@
 - [Github Project Management and Collaboration](https://www.linkedin.com/learning/certificates/ca5ff448c53ebf51f25fa8dc501cf57cae76a920193d89db197c636de905d7aa)
 - Data Science - Austin Community College
 - Occupational Skills Award - Computer Programming - Austin Community College
+- RPA Citizen Developer - UiPath
 
 
 <h2> 📚 I’m currently learning<h/2>
 
+- AI Agents
+- Machine Learning Models
 
 <h2> 🤳 Connect with me:</h2>
 
