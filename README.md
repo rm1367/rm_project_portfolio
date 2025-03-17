@@ -5,7 +5,7 @@
 <h2>👨‍💻 Coding Projects:</h2>
 
 - <b>Python</b>
-  - [Blood Pressure Analysis Plot)](https://github.com/rm1367/BloodPressurePlot)
+  - [Blood Pressure Analysis Plot](https://github.com/rm1367/BloodPressurePlot)
 
 
 
