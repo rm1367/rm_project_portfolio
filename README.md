@@ -6,6 +6,7 @@
 
 - <b>Python</b>
   - [Blood Pressure Analysis Plot](https://github.com/rm1367/BloodPressurePlot)
+  - [Time-Series Data Analysis: Stock Data](https://github.com/rm1367/Time-Series-Data-Analysis)
 
 
 
