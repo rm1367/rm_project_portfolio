@@ -26,7 +26,7 @@
 
 <h2> 📊 Tableau Projects </h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study/tree/main)
 
 
 <h2> 🏫 Certifications</h2>
