@@ -2,23 +2,11 @@
 
 📫 Email: Ryan.Maldonado1367@gmail.com
 
-<h2>👨‍💻 Python Projects:</h2>
+<h2>👨‍💻 Coding Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
-  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+
 
 
 <h2> 📊 SQL Projects </h2>
@@ -33,7 +21,10 @@
 
 - [GitHub Essentials Professional](https://www.linkedin.com/learning/certificates/644c87deb6a1d00ccea542de278e33888e17331484d9e6dd37a7b973cd9aad70?trk=share_certificate)
 - [Microsoft Azure AI Essentials Professional](https://www.linkedin.com/learning/certificates/f43c472e6a25b90fdff165ce11339ec361c7ff4d599c181934d74e65f889256f)
-- [Machine Learning with Python]()
+- [Machine Learning with Python](https://www.linkedin.com/learning/certificates/1aeaedcd32a72d8623625670f98da44948997791093d3180ff8631155b28a786)
+- [Github Project Management and Collaboration](https://www.linkedin.com/learning/certificates/ca5ff448c53ebf51f25fa8dc501cf57cae76a920193d89db197c636de905d7aa)
+- Data Science - Austin Community College
+- Occupational Skills Award - Computer Programming - Austin Community College
 
 
 <h2> 📚 I’m currently learning<h/2>
@@ -48,7 +39,6 @@
 [linkedin]: https://www.linkedin.com/in/ryan-maldonado-ms/
 
 <!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
