@@ -13,6 +13,7 @@
 
 <h2> 🗄️ SQL Projects </h2>
 
+- [Trigger: Stored Procedure](https://github.com/rm1367/Trigger)
 
 <h2> 📊 Tableau Projects </h2>
 
