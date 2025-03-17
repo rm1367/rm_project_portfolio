@@ -14,6 +14,7 @@
 <h2> 🗄️ SQL Projects </h2>
 
 - [Trigger: Stored Procedure](https://github.com/rm1367/Trigger)
+- [Creating Stored Procedures](https://github.com/rm1367/Procedure)
 
 <h2> 📊 Tableau Projects </h2>
 
@@ -33,9 +34,10 @@
 
 <h2> 📚 I’m currently learning</h2>
 
-  - AI Agents
-  - Machine Learning Models
-  - Generative AI
+- Tableau and R for Analysis Projects
+- AI Agents
+- Machine Learning Models
+- Generative AI
 
 <h2> 🤳 Connect with me:</h2>
 
