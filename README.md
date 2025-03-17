@@ -15,7 +15,7 @@
 <h2> 📊 Tableau Projects </h2>
 
 - [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study/tree/main)
-
+- [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy/tree/main)
 
 <h2> 🏫 Certifications</h2>
 
