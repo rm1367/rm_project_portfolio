@@ -9,7 +9,7 @@
 
 
 
-<h2> 📊 SQL Projects </h2>
+<h2> 🗄️ SQL Projects </h2>
 
 
 <h2> 📊 Tableau Projects </h2>
