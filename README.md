@@ -21,6 +21,7 @@
 
 - [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study)
 - [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy)
+- [Analyzing DJ Set Flow and Music Diversity](https://github.com/rm1367/Analyzing-DJ-Set-Flow-and-Music-Diversity)
 
 <h2> 🏫 Certifications</h2>
 
