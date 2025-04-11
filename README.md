@@ -19,6 +19,7 @@
 
 <h2> 📊 Tableau Projects </h2>
 
+- [Tableau Interactive Resume](https://public.tableau.com/app/profile/ryan.maldonado/viz/RyanMaldonadoResume/resumeDashboard)
 - [Airbnb Price Study](https://github.com/rm1367/Airbnb-Price-Study)
 - [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy)
 - [Analyzing DJ Set Flow and Music Diversity](https://github.com/rm1367/Analyzing-DJ-Set-Flow-and-Music-Diversity)
