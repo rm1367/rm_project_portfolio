@@ -24,6 +24,11 @@
 - [Health Factors Study](https://github.com/rm1367/HealthFactorsStudy)
 - [Analyzing DJ Set Flow and Music Diversity](https://github.com/rm1367/Analyzing-DJ-Set-Flow-and-Music-Diversity)
 
+<h2> 🤖 Automation Projects </h2>
+
+- [Gate Walking Speed](https://github.com/rm1367/GateWalkingSpeed/blob/main/README.md)
+    
+
 <h2> 🏫 Certifications</h2>
 
 - [GitHub Essentials Professional](https://www.linkedin.com/learning/certificates/644c87deb6a1d00ccea542de278e33888e17331484d9e6dd37a7b973cd9aad70?trk=share_certificate)
